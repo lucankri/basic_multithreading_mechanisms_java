@@ -1,6 +1,6 @@
 # Basic multithreading mechanisms
 
-Создание программ для изучения базовых механизм многопоточности в Java
+Creating programs to explore the basic multithreading mechanism in Java
 
 ### Exercise 00 – Egg, Hen... or Human?
 
